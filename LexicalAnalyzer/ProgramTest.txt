@@ -1,0 +1,6 @@
+     <= <> >= >
+>< <= == > < >>
+  >= > = < <=
+    program test
+a of integer in
+d1 a
